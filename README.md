@@ -1,6 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif)]
+![MasterHead](https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif)
 <h1 align="center">Hi 👋, I'm Emiliano</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">A passionate Fullstack developer from Texas</h3>
 <img align="right" alt="Coding" width="400" src="https://dsfshdfgfd.neocities.org/images/people.gif">
 
 - 🔭 I’m currently working on **getting my degree at college**
