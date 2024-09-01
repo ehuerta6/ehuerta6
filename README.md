@@ -1,11 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif)
+[![MasterHead](https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif)]
 <h1 align="center">Hi 👋, I'm Emiliano</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 <img align="right" alt="Coding" width="400" src="https://dsfshdfgfd.neocities.org/images/people.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehuerta6&label=Profile%20views&color=0e75b6&style=flat" alt="ehuerta6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehuerta6" alt="ehuerta6" /></a> </p>
 
 - 🔭 I’m currently working on **getting my degree at college**
 
@@ -15,7 +11,7 @@
 
 - 📫 How to reach me **emihuerta@outlook.com**
 
-- ⚡ Fun fact **i'm a Taekwondo Panamerican champion!**
+- ⚡ Fun fact **i'm a Taekondo Panamerican champion!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
