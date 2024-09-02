@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **emihuerta@outlook.com**
 
-- ⚡ Fun fact **i'm a Taekondo Panamerican champion!**
+- ⚡ Fun fact **i'm a Taekwondo Panamerican/Bi-national/Multi-international Champion!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
