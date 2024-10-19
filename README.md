@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **getting my degree at college**
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript and React**
 
-- 👯 I’m looking to collaborate on **Google, Dell, Microsoft, Apple**
+- 👯 I’m looking to collaborate on **Google, Dell, Microsoft, Apple, Amazon**
 
 - 📫 How to reach me **emihuerta@outlook.com**
 
