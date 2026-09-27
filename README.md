@@ -1,84 +1,88 @@
-<!-- Header GIF -->
-![Header](https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif)
+<!-- Custom header coming soon -->
 
-<h1 align="center">Hi 👋, I'm Emiliano</h1>
-<h3 align="center">Fullstack Developer & Data Enthusiast from Texas</h3>
+<h1 align="center">Hi, I'm Emiliano 👋</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e1/f3/4d/e1f34d3f7a5baa55f97d9d1f7356f5d3.gif" width="300" alt="Coding animation" />
+  <b>Software Engineering · AI Systems · Full Stack</b>
 </p>
-
----
-
-### 🎓 About Me
-
-- 🎓 I'm currently working on my **college degree**
-- 🌱 Learning **TypeScript, React, Node.js, SQL, PostgreSQL, MongoDB**
-- 📊 Exploring **Data Analysis** with **Python (Pandas, NumPy, Matplotlib)**
-- 🌐 Building **Fullstack projects** using modern frameworks and deployment tools
-- 👯 Open to collaborate with **Google, Microsoft, Apple, Amazon, Dell**
-- ✉️ Reach me at:
-  - [emihuerta@outlook.com](mailto:emihuerta@outlook.com)
-  - [emihuerta288@gmail.com](mailto:emihuerta288@gmail.com)
-- ⚡ Fun fact: I’m a **Taekwondo Panamerican, Bi-national, and Multi-International Champion!**
-
----
-
-### 💻 Tech Stack
-
-#### Languages & Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" alt="React" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="30" alt="React Native" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" alt="Angular" />
-</p>
-
-#### Backend & Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
-</p>
-
-#### Data Analysis & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="30" alt="Matplotlib" />
-</p>
-
-#### Other Tools & Frameworks
-<p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" alt="Git" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30" alt="Arduino" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="30" alt="Unity" />
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="30" alt="Unreal Engine" />
-</p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehuerta6&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehuerta6&theme=tokyonight" alt="GitHub Streak" />
+  Computer Science @ UTEP · Mathematics Minor
 </p>
 
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/emihuerta288" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/emihuerta288/">
+    <img src="https://img.shields.io/badge/LinkedIn-Emiliano%20Huerta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+
+---
+
+### About me
+
+I'm a software engineer interested in building **reliable AI-powered software, developer tools, and full-stack systems**.
+
+I'm especially interested in the engineering around LLMs — **agents, tool calling, MCP, structured outputs, context and memory, output validation, and AI-assisted workflows** — and how these systems can make existing software and engineering workflows better.
+
+Previously a **Software Engineering Intern at Bloomberg**. Outside of building software, I enjoy **teaching, mentoring, and finding ways to automate repetitive work**.
+
+---
+
+### What I'm into
+
+```text
+AI Systems        Agents · Tool Calling · MCP · Structured Outputs
+LLM Engineering   Context · Memory · Validation · Safety
+Software          Backend Systems · APIs · Full-Stack Applications
+Developer Tools   Automation · AI-Assisted Workflows · Internal Tooling
+```
+
+---
+
+### Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,react,nextjs,fastapi,flask,postgres,supabase,redis,docker,git&perline=15" alt="Tech stack">
+</p>
+
+<p align="center">
+  <code>Python</code> ·
+  <code>TypeScript</code> ·
+  <code>Next.js</code> ·
+  <code>React</code> ·
+  <code>FastAPI</code> ·
+  <code>PostgreSQL</code> ·
+  <code>Supabase</code> ·
+  <code>Redis</code> ·
+  <code>Docker</code>
+</p>
+
+<p align="center">
+  <code>MCP</code> ·
+  <code>Tool Calling</code> ·
+  <code>Structured Outputs</code> ·
+  <code>Pydantic</code> ·
+  <code>Output Validation</code> ·
+  <code>AI Workflow Automation</code>
+</p>
+
+---
+
+<details>
+<summary><b>A little more about me</b></summary>
+
+<br>
+
+- Studying **Computer Science** with a **Mathematics minor** at The University of Texas at El Paso
+- I enjoy teaching and mentoring other computer science students
+- Interested in making AI useful inside real software, not just demos
+- Big believer in using automation to eliminate repetitive work
+- Former competitive Taekwondo athlete — **Pan-American, binational, and international champion**
+
+</details>
+
+<br>
+
+<p align="center">
+  <i>Always building, learning, and probably giving an LLM another tool.</i>
 </p>
