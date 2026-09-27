@@ -1,14 +1,12 @@
-<!-- Custom header coming soon -->
-
-<h1 align="center">Hi, I'm Emiliano 👋</h1>
-
-<p align="center">
-  <b>Software Engineering · AI Systems · Full Stack</b>
-</p>
-
-<p align="center">
-  Computer Science @ UTEP · Mathematics Minor
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img
+    alt="Emiliano Huerta — Software Engineering, AI Systems, and Full Stack"
+    src="./assets/header-dark.svg"
+    width="100%"
+  >
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emihuerta288/">
